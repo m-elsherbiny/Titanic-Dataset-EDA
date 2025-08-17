@@ -11,7 +11,7 @@ The dataset used is the classic Titanic dataset, which contains passenger inform
 - Fare
 - Survival Status
 
-# 🛠️ Tools & Libraries
+# 📚 Libraries
 The analysis was performed in Python using the following libraries:
 
 Data Manipulation & Analysis: 
